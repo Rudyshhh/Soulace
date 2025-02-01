@@ -15,7 +15,7 @@ Welcome to Soulace, an innovative web application designed to enhance the educat
 
 ## Introduction
 
-Soulace is more than just an educational tool; it's a comprehensive platform where students and parents can interact, learn, and grow together. Whether it's tackling challenging subjects or engaging in fun educational games, Soulace aims to create a supportive environment that nurtures curiosity and fosters a love of learning.
+Soulace is more than just an educational tool; it's a comprehensive platform where students and parents can interact, learn, and grow together. Whether it's tackling challenging subjects or engaging in fun educational games, Soulace aims to create a supportive environment that nurtures curiosity and fosters a love of learning. 
 
 ## Features
 
